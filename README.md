@@ -1,5 +1,5 @@
 # Sergio Rodríguez Fernández
-## Químico | Estudiante de Máster en Energía Solar
+## Químico | Especialista en Energía Solar
 
 [📧 Email](mailto:sergiorzfz@gmail.com) | [📄 Descargar CV en PDF](./CV_SergioRodríguez.pdf)
 

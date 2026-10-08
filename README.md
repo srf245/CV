@@ -1,7 +1,7 @@
 # Sergio Rodríguez Fernández
 ## Químico | Especialista en Energía Solar
 
-[📧 Email](mailto:sergiorzfz@gmail.com) | [📄 Descargar CV en PDF](./CV_SergioRodríguez.pdf)
+[📧 Email](mailto:sergiorzfz@gmail.com) | [📄 Descargar CV en PDF](./)
 
 ---
 
